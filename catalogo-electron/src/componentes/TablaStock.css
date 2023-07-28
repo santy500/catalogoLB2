@@ -1,0 +1,6 @@
+.liArticulos{
+  width: 50%;
+  height: 209.5mm;
+  display: inline-flex ;
+  flex-direction: column;
+}

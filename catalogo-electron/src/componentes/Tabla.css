@@ -1,0 +1,21 @@
+.container{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    margin-top: 20mm;
+    max-width: 108.5mm;
+    max-height: 120mm;
+    
+}
+
+.table{
+    max-height: 50mm;
+    max-width: 108.5mm;
+    margin: 10mm 0;
+}
+

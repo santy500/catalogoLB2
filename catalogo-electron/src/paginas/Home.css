@@ -1,0 +1,14 @@
+.boton{
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    background-color:#8fd603;
+    border-radius: 15px;
+}
+
+.containerBotones{
+    display: inline-block;
+    align-items: center;
+
+}

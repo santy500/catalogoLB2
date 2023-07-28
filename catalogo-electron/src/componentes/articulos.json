@@ -1,0 +1,72 @@
+[
+  {
+    "marca":"Kaury",
+    "productos":[{
+                  "id": 1,
+                  "nombre": "4880",
+                  "talles": ["S", "M", "L","XL"],
+                  "colores": ["Rojo", "Azul", "Verde","Rosa"],
+                  "imagen":"/minion.jpeg"
+                },
+                {
+                  "id": 2,
+                  "nombre": "3333",
+                  "talles": ["S", "M", "L"],
+                  "colores": ["Negro", "Gris", "verde"],
+                  "imagen":"/minion.jpeg"
+                },
+                {
+                  "id": 3,
+                  "nombre": "3333",
+                  "talles": ["85", "90", "95", "100"],
+                  "colores": ["Negro", "Gris", "Azul Marino"],
+                  "imagen":"/minion.jpeg"
+                },
+                {
+                  "id": 4,
+                  "nombre": "3123",
+                  "talles": ["S", "M", "L", "XL"],
+                  "colores": ["blanco", "Rosa Vintage", "Azul Marino"],
+                  "imagen":"/minion.jpeg"
+                },
+                {
+                  "id": 5,
+                  "nombre": "3333",
+                  "talles": ["S", "M", "L", "XL"],
+                  "colores": ["Negro", "Gris", "Azul", "Rojo"],
+                  "imagen":"/minion.jpeg"
+                }]
+  },{
+    "marca":"Lody",
+    "productos":[{
+                  "id": 1,
+                  "nombre": "6542",
+                  "talles": ["S", "M", "L","XL"],
+                  "colores": ["Rojo", "Azul", "Verde","Rosa"],
+                  "imagen":"/minion.jpeg"
+                },
+                {
+                  "id": 2,
+                  "nombre": "3233",
+                  "talles": ["S", "M", "L", "XL"],
+                  "colores": ["Negro", "Gris", "Azul Marino"],
+                  "imagen":"/minion.jpeg"
+                }]
+  },{
+    "marca":"Fiorina",
+    "productos":[{
+                  "id": 1,
+                  "nombre": "6535",
+                  "talles": ["S", "M", "L","XL"],
+                  "colores": ["Rojo", "Azul", "Verde","Rosa"],
+                  "imagen":"/minion.jpeg"
+                },
+                {
+                  "id": 2,
+                  "nombre": "8888",
+                  "talles": ["S", "M", "L", "XL"],
+                  "colores": ["Negro", "Gris", "Azul Marino"],
+                  "imagen":"/minion.jpeg"
+                }]
+  }
+]

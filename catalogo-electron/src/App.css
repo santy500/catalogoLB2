@@ -1,0 +1,14 @@
+*{
+  background-color: black;
+  color: white;
+}
+.contenedorPDF{
+  width: 780px;
+  height: 550px;
+}
+
+.home{
+  display: flex;
+  flex-direction: row;
+  background-color: aqua;
+}

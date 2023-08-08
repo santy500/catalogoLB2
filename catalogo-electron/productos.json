@@ -1,0 +1,44 @@
+[
+  {
+    "codigo": "",
+    "marca": "Kaury",
+    "talles": "M-L",
+    "colores": "Negro-Blanco",
+    "imagen": "minion.jpeg"
+  },
+  {
+    "codigo": "aaa",
+    "marca": "Lody",
+    "talles": "85-90-95",
+    "colores": "Blanco-Rojo",
+    "imagen": "."
+  },
+  {
+    "codigo": "aa",
+    "marca": "Lody",
+    "talles": "85",
+    "colores": "Blanco",
+    "imagen": "minion.jpeg"
+  },
+  {
+    "codigo": "bbb",
+    "marca": "Lody",
+    "talles": "85",
+    "colores": "Rojo",
+    "imagen": "minion.jpeg"
+  },
+  {
+    "codigo": "aaa",
+    "marca": "Kaury",
+    "talles": "85",
+    "colores": "azul",
+    "imagen": "."
+  },
+  {
+    "codigo": "ZZZ",
+    "marca": "Fiorina",
+    "talles": "85-90",
+    "colores": "Rojo-Verde",
+    "imagen": "minion.jpeg"
+  }
+]

@@ -5,10 +5,10 @@ const Layout = ()=>{
         <nav>
         <ul>
             <li>
-                <NavLink to="/">Home</NavLink>
+                <NavLink to="/">Inicio</NavLink>
             </li>
             <li>
-                <NavLink to="/articulos">Articulos</NavLink>
+                <NavLink to="/crud">Editar Productos</NavLink>
             </li>
         </ul>
         </nav> 

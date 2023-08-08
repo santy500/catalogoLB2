@@ -2,13 +2,14 @@ import React from 'react';
 import ArticleTableRow from './ArticleTableRow';
 import './Tabla.css'
 
+
 const Tabla =(props)=>{
   const articulo = props.articulo
   const cadenaTalles = props.talles
   const talles = cadenaTalles.split("-")
   const cadenaColores = props.colores
   const colores = cadenaColores.split("-")
-  const imagen = props.imagen
+  const imagen = '../'+props.imagen
 
   return(
     <>

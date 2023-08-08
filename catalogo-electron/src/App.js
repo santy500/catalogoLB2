@@ -54,6 +54,9 @@ import { Routes, Route } from 'react-router-dom';
 import Layout from './paginas/Layout';
 import Home from './paginas/Home';
 import Articulos from './paginas/Articulos';
+import AgregarProducto from './paginas/AgregarProductos';
+import EditarProducto from './paginas/EditarProducto';
+import CRUD from './paginas/CRUD';
 
 const App = () => {
   return (
@@ -62,6 +65,9 @@ const App = () => {
         <Route path='/' element={<Layout />}>
           <Route path='/' element={<Home />}></Route>
           <Route path='articulos/:marca' element={<Articulos />}></Route>
+          <Route path='agregarproductos/' element={<AgregarProducto />}></Route>
+          <Route path='editarproducto/:marca' element={<EditarProducto />}></Route>
+          <Route path='crud/' element={<CRUD />}></Route>
         </Route>
       </Routes>
     </div>

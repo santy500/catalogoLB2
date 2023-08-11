@@ -1,44 +1,478 @@
 [
   {
-    "codigo": "",
+    "codigo": "231",
     "marca": "Kaury",
-    "talles": "M-L",
-    "colores": "Negro-Blanco",
-    "imagen": "minion.jpeg"
+    "talles": "1,2,3,4",
+    "colores": "Negro,Miel,Natural",
+    "imagen": "k231.jpg"
   },
   {
-    "codigo": "aaa",
-    "marca": "Lody",
-    "talles": "85-90-95",
-    "colores": "Blanco-Rojo",
-    "imagen": "."
-  },
-  {
-    "codigo": "aa",
-    "marca": "Lody",
-    "talles": "85",
-    "colores": "Blanco",
-    "imagen": "minion.jpeg"
-  },
-  {
-    "codigo": "bbb",
-    "marca": "Lody",
-    "talles": "85",
-    "colores": "Rojo",
-    "imagen": "minion.jpeg"
-  },
-  {
-    "codigo": "aaa",
+    "codigo": "232",
     "marca": "Kaury",
-    "talles": "85",
-    "colores": "azul",
-    "imagen": "."
+    "talles": "1,2,3",
+    "colores": "Negro,Miel,Natural",
+    "imagen": "k232.jpg"
   },
   {
-    "codigo": "ZZZ",
-    "marca": "Fiorina",
-    "talles": "85-90",
-    "colores": "Rojo-Verde",
-    "imagen": "minion.jpeg"
+    "codigo": "233",
+    "marca": "Kaury",
+    "talles": "1,2,3,4",
+    "colores": "Negro,Miel,Natural",
+    "imagen": "k233.jpg"
+  },
+  {
+    "codigo": "234",
+    "marca": "Kaury",
+    "talles": "Unico",
+    "colores": "Blanco,Negro,Rojo",
+    "imagen": "k234.jpg"
+  },
+  {
+    "codigo": "235",
+    "marca": "Kaury",
+    "talles": "Unico",
+    "colores": "Negro,Miel,Natural",
+    "imagen": "k235.jpg"
+  },
+  {
+    "codigo": "237",
+    "marca": "Kaury",
+    "talles": "1,2,3,4",
+    "colores": "Negro",
+    "imagen": "k237.jpg"
+  },
+  {
+    "codigo": "238",
+    "marca": "Kaury",
+    "talles": "1,2,3,4",
+    "colores": "Negro",
+    "imagen": "k238.jpg"
+  },
+  {
+    "codigo": "239",
+    "marca": "Kaury",
+    "talles": "Unico",
+    "colores": "Blanco,Negro,Rojo",
+    "imagen": "k239.jpg"
+  },
+  {
+    "codigo": "4000",
+    "marca": "Kaury",
+    "talles": "85,90,95",
+    "colores": "Blanco,Negro,Nude,Fresa,Fucsia,V. Militar,Rosa Vint.",
+    "imagen": "k4000.jpg"
+  },
+  {
+    "codigo": "4030",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Nude,Rojo,Fresa,Fucsia,V. Militar,Rosa Vint.",
+    "imagen": "k4030.jpg"
+  },
+  {
+    "codigo": "4710",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Bordo,Fucsia,Rosa Vint.",
+    "imagen": "k4710.jpg"
+  },
+  {
+    "codigo": "4790",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Rojo,Fresa,Fucsia,V. Militar,Rosa Vint.",
+    "imagen": "k4790.jpg"
+  },
+  {
+    "codigo": "4950",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Nude,Rosa Vint.",
+    "imagen": "k4950.jpg"
+  },
+  {
+    "codigo": "6000",
+    "marca": "Kaury",
+    "talles": "1,2",
+    "colores": "Blanco,Negro,Nude,Rosa Vint.",
+    "imagen": "k6000.jpg"
+  },
+  {
+    "codigo": "7020",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Bordo,Verde Militar,Rosa Vint.",
+    "imagen": "k7020.jpg"
+  },
+  {
+    "codigo": "7070",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Bordo - Negro,V.Militar - Nude,Negro - Nude",
+    "imagen": "k7070.jpg"
+  },
+  {
+    "codigo": "7080",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Rojo,Azul Noche",
+    "imagen": "k7080.jpg"
+  },
+  {
+    "codigo": "8060",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Nude,Rosa Vint.",
+    "imagen": "k8060.jpg"
+  },
+  {
+    "codigo": "8070",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Rojo,Bordo,Verde Militar",
+    "imagen": "k8070.jpg"
+  },
+  {
+    "codigo": "8090",
+    "marca": "Kaury",
+    "talles": "90,95,100,105",
+    "colores": "Blanco,Negro,Rosa Vint.",
+    "imagen": "k8090.jpg"
+  },
+  {
+    "codigo": "8097",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Nude,Fucsia,Rosa Vint.",
+    "imagen": "k8097.jpg"
+  },
+  {
+    "codigo": "8099",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro,Rojo,Fresa,Verde Militar,Rosa Vint.",
+    "imagen": "k8099.jpg"
+  },
+  {
+    "codigo": "8100",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Azul Noche,V.Militar,Rosa Vint.",
+    "imagen": "k8100.jpg"
+  },
+  {
+    "codigo": "8101",
+    "marca": "Kaury",
+    "talles": "90,95,100,105",
+    "colores": "Blanco,Negro,Nude",
+    "imagen": "k8101.jpg"
+  },
+  {
+    "codigo": "8102",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Gris Melange,Rosa Vint.",
+    "imagen": "k8102.jpg"
+  },
+  {
+    "codigo": "8113",
+    "marca": "Kaury",
+    "talles": "90,95,100,105",
+    "colores": "Blanco,Negro,Fresa,Rosa Vint.",
+    "imagen": "k8113.jpg"
+  },
+  {
+    "codigo": "8118",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Negro,Rojo,Azul Noche",
+    "imagen": "k8118.jpg"
+  },
+  {
+    "codigo": "8120",
+    "marca": "Kaury",
+    "talles": "95,100,105,110",
+    "colores": "Blanco,Negro,Rojo,Fresa,Azul Noche,Rosa Vint.",
+    "imagen": "k8120.jpg"
+  },
+  {
+    "codigo": "8130",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Gris Melange,Rosa Vint.",
+    "imagen": "k8130.jpg"
+  },
+  {
+    "codigo": "8133",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro",
+    "imagen": "k8133.jpg"
+  },
+  {
+    "codigo": "8135",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro,Rojo",
+    "imagen": "k8135.jpg"
+  },
+  {
+    "codigo": "8138",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Bordo",
+    "imagen": "k8138.jpg"
+  },
+  {
+    "codigo": "8139",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Rojo",
+    "imagen": "k8139.jpg"
+  },
+  {
+    "codigo": "8140",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Rojo",
+    "imagen": "k8140.jpg"
+  },
+  {
+    "codigo": "8143",
+    "marca": "Kaury",
+    "talles": "S,M,L,XL",
+    "colores": "Blanco,Negro,Rosa Vint.",
+    "imagen": "k8143.jpg"
+  },
+  {
+    "codigo": "8145",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Fresa",
+    "imagen": "k8145.jpg"
+  },
+  {
+    "codigo": "8146",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Nude",
+    "imagen": "k8146.jpg"
+  },
+  {
+    "codigo": "8148",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Nude",
+    "imagen": "k8148.jpg"
+  },
+  {
+    "codigo": "8149",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Rojo,Fresa,Azul Noche,Rosa Vint.",
+    "imagen": "k8149.jpg"
+  },
+  {
+    "codigo": "8150",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Negro,Fresa",
+    "imagen": "k8150.jpg"
+  },
+  {
+    "codigo": "8151",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Rojo,Fresa,Azul Noche,Rosa Vint.",
+    "imagen": "k8151.jpg"
+  },
+  {
+    "codigo": "8153",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Bordo,Verde Militar,Rosa Vint.",
+    "imagen": "k8153.jpg"
+  },
+  {
+    "codigo": "8155",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro,Rojo,Verde Militar,Rosa Vint.",
+    "imagen": "k8155.jpg"
+  },
+  {
+    "codigo": "8157",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro,Rosa Vint.",
+    "imagen": "k8157.jpg"
+  },
+  {
+    "codigo": "8158",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro,Rosa Vint.",
+    "imagen": "k8158.jpg"
+  },
+  {
+    "codigo": "8159",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro,Rosa Vint.",
+    "imagen": "k8159.jpg"
+  },
+  {
+    "codigo": "8160",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro,Nude",
+    "imagen": "k8160.jpg"
+  },
+  {
+    "codigo": "8161",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro,Nude",
+    "imagen": "k8161.jpg"
+  },
+  {
+    "codigo": "8165",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Bordo,Nude,Fresa,Rosa Vint.",
+    "imagen": "k8165.jpg"
+  },
+  {
+    "codigo": "8166",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Fresa,Verde Militar,Rosa Vint.",
+    "imagen": "k8166.jpg"
+  },
+  {
+    "codigo": "8167",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro,Bordo",
+    "imagen": "k8167.jpg"
+  },
+  {
+    "codigo": "8168",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Rojo,Fresa",
+    "imagen": "k8168.jpg"
+  },
+  {
+    "codigo": "8169",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Bordo",
+    "imagen": "k8169.jpg"
+  },
+  {
+    "codigo": "8170",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Rojo,Fresa",
+    "imagen": "k8170.jpg"
+  },
+  {
+    "codigo": "8171",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Negro,Rosa Vint.",
+    "imagen": "k8171.jpg"
+  },
+  {
+    "codigo": "8172",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Negro,Fresa,V. Militar",
+    "imagen": "k8172.jpg"
+  },
+  {
+    "codigo": "8173",
+    "marca": "Kaury",
+    "talles": "100,105,110",
+    "colores": "Blanco,Negro,Rosa Vint.",
+    "imagen": "k8173.jpg"
+  },
+  {
+    "codigo": "8174",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Fresa,Rosa Vint.",
+    "imagen": "k8174.jpg"
+  },
+  {
+    "codigo": "8175",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Negro,Fresa,Rosa vint.",
+    "imagen": "k8175.jpg"
+  },
+  {
+    "codigo": "8176",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Unico",
+    "imagen": "k8176.jpg"
+  },
+  {
+    "codigo": "8177",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Negro,Rojo",
+    "imagen": "k8177.jpg"
+  },
+  {
+    "codigo": "8178",
+    "marca": "Kaury",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro,Rojo",
+    "imagen": "k8178.jpg"
+  },
+  {
+    "codigo": "8179",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Rojo,Fresa",
+    "imagen": "k8179.jpg"
+  },
+  {
+    "codigo": "8180",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro",
+    "imagen": "k8180.jpg"
+  },
+  {
+    "codigo": "8181",
+    "marca": "Kaury",
+    "talles": "90,95,100",
+    "colores": "Blanco,Negro,Fresa",
+    "imagen": "k8181.jpg"
+  },
+  {
+    "codigo": "8182",
+    "marca": "Kaury",
+    "talles": "85,90,95,100",
+    "colores": "Blanco,Negro,Fresa",
+    "imagen": "k8182.jpg"
+  },
+  {
+    "codigo": "8183",
+    "marca": "Kaury",
+    "talles": "S,M,L,XL",
+    "colores": "Blanco,Negro,Rosa Vint.",
+    "imagen": "k8183.jpg"
+  },
+  {
+    "codigo": "8184",
+    "marca": "Kaury",
+    "talles": "S,M,L,XL",
+    "colores": "Blanco,Negro,Rosa Vint.",
+    "imagen": "k8184.jpg"
   }
 ]

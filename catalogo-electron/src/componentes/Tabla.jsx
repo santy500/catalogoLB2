@@ -6,9 +6,9 @@ import './Tabla.css'
 const Tabla =(props)=>{
   const articulo = props.articulo
   const cadenaTalles = props.talles
-  const talles = cadenaTalles.split("-")
+  const talles = cadenaTalles.split(",")
   const cadenaColores = props.colores
-  const colores = cadenaColores.split("-")
+  const colores = cadenaColores.split(",")
   const imagen = '../'+props.imagen
 
   return(

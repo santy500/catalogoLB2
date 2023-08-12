@@ -72,5 +72,6 @@ def guardar_productos(productos):
     with open("productos.json", "w") as file:
         json.dump(productos, file, indent=2)
 
+
 if __name__ == '__main__':
     app.run()

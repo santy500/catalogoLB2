@@ -26,7 +26,7 @@ import { useState, useEffect } from "react";
         data.map((item, index)=>{ 
             return(
             <li className="liArticulos">
-            <Tabla articulo={item.codigo} talles={item.talles} colores = {item.colores} imagen={item.imagen}/>
+            <Tabla articulo={item.codigo} talles={item.talles} colores = {item.colores} imagen={item.imagen} marca={props.marca}/>
           </li>
           )
         })}

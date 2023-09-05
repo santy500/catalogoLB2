@@ -9,7 +9,7 @@ const Tabla =(props)=>{
   const talles = cadenaTalles.split(",")
   const cadenaColores = props.colores
   const colores = cadenaColores.split(",")
-  const imagen = '../'+props.imagen
+  const imagen = '../'+props.marca+'/'+props.imagen
 
   return(
     <>

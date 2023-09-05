@@ -474,5 +474,250 @@
     "talles": "S,M,L,XL",
     "colores": "Blanco,Negro,Rosa Vint.",
     "imagen": "k8184.jpg"
-  }
+  },
+  {
+    "codigo": 520,
+    "marca": "Kaury Summer",
+    "talles": "85,90,95,100",
+    "colores": "Batik,Print,Jungle,Hawaii",
+    "imagen": "KS520.jpg"
+},
+{
+    "codigo": 521,
+    "marca": "Kaury Summer",
+    "talles": "85,90,95,100",
+    "colores": "Amarillo,V.Militar,Frambuesa,Negro,Rojo",
+    "imagen": "KS521.jpg"
+},
+{
+    "codigo": 594,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4",
+    "colores": "Negro",
+    "imagen": "KS594.jpg"
+},
+{
+    "codigo": 595,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4,5",
+    "colores": "Jungle",
+    "imagen": "KS595.jpg"
+},
+{
+    "codigo": 596,
+    "marca": "Kaury Summer",
+    "talles": "95,100,105,110",
+    "colores": "Negro,V.Militar",
+    "imagen": "KS596.jpg"
+},
+{
+    "codigo": 598,
+    "marca": "Kaury Summer",
+    "talles": "0,1,2,3,4",
+    "colores": "Batik,Graffiti,Print",
+    "imagen": "KS598.jpg"
+},
+{
+    "codigo": 599,
+    "marca": "Kaury Summer",
+    "talles": "85,90,95,100",
+    "colores": "Batik,Print",
+    "imagen": "KS599.jpg"
+},
+{
+    "codigo": 600,
+    "marca": "Kaury Summer",
+    "talles": "0,1,2,3,4",
+    "colores": "Negro",
+    "imagen": "KS600.jpg"
+},
+{
+    "codigo": 601,
+    "marca": "Kaury Summer",
+    "talles": "85,90,95,100",
+    "colores": "Arabescos",
+    "imagen": "KS601.jpg"
+},
+{
+    "codigo": 602,
+    "marca": "Kaury Summer",
+    "talles": "85,90,95,100",
+    "colores": "Negro",
+    "imagen": "KS602.jpg"
+},
+{
+    "codigo": 608,
+    "marca": "Kaury Summer",
+    "talles": "0,1,2,3,4",
+    "colores": "Graffiti",
+    "imagen": "KS608.jpg"
+},
+{
+    "codigo": 535,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4",
+    "colores": "Amarillo,V.Militar",
+    "imagen": "KS535.jpg"
+},
+{
+    "codigo": 538,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4",
+    "colores": "V.Militar",
+    "imagen": "KS538.jpg"
+},
+{
+    "codigo": 583,
+    "marca": "Kaury Summer",
+    "talles": "0,1,2,3,4",
+    "colores": "Amarillo,V.Militar,Negro",
+    "imagen": "KS583.jpg"
+},
+{
+    "codigo": 593,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4",
+    "colores": "Batik,Print",
+    "imagen": "KS593.jpg"
+},
+{
+    "codigo": 603,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4",
+    "colores": "Batik,Print",
+    "imagen": "KS603.jpg"
+},
+{
+    "codigo": 604,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4",
+    "colores": "Negro",
+    "imagen": "KS604.jpg"
+},
+{
+    "codigo": 605,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4",
+    "colores": "Negro",
+    "imagen": "KS605.jpg"
+},
+{
+    "codigo": 554,
+    "marca": "Kaury Summer",
+    "talles": "85",
+    "colores": "Portugal",
+    "imagen": "KS554.jpg"
+},
+{
+    "codigo": 556,
+    "marca": "Kaury Summer",
+    "talles": "100,105",
+    "colores": "Amarillo,Negro",
+    "imagen": "KS556.jpg"
+},
+{
+    "codigo": 557,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4,5",
+    "colores": "Frambuesa,Negro,Rojo",
+    "imagen": "KS557.jpg"
+},
+{
+    "codigo": 563,
+    "marca": "Kaury Summer",
+    "talles": "1,2",
+    "colores": "Negro/Reptil",
+    "imagen": "KS563.jpg"
+},
+{
+    "codigo": 565,
+    "marca": "Kaury Summer",
+    "talles": "90",
+    "colores": "Africa",
+    "imagen": "KS565.jpg"
+},
+{
+    "codigo": 567,
+    "marca": "Kaury Summer",
+    "talles": "85",
+    "colores": "Negro",
+    "imagen": "KS567.jpg"
+},
+{
+    "codigo": 574,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4,5",
+    "colores": "Negro,Vintage",
+    "imagen": "KS574.jpg"
+},
+{
+    "codigo": 575,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3,4",
+    "colores": "Negro",
+    "imagen": "KS575.jpg"
+},
+{
+    "codigo": 577,
+    "marca": "Kaury Summer",
+    "talles": "0,1,2,3,4",
+    "colores": "Frambuesa,Negro,Rojo",
+    "imagen": "KS577.jpg"
+},
+{
+    "codigo": 584,
+    "marca": "Kaury Summer",
+    "talles": "85,90,95,100",
+    "colores": "Hawaii,Animal Print,Pink Flower,Jungle",
+    "imagen": "KS584.jpg"
+},
+{
+    "codigo": 585,
+    "marca": "Kaury Summer",
+    "talles": "85,90,95,100",
+    "colores": "Hawaii,Animal Print,Jungle",
+    "imagen": "KS585.jpg"
+},
+{
+    "codigo": 586,
+    "marca": "Kaury Summer",
+    "talles": "85,90,100",
+    "colores": "Hawaii,Animal Print,Jungle",
+    "imagen": "KS586.jpg"
+},
+{
+    "codigo": 587,
+    "marca": "Kaury Summer",
+    "talles": "85,90,95,100",
+    "colores": "Frambuesa,Negro,Rojo",
+    "imagen": "KS587.jpg"
+},
+{
+    "codigo": 588,
+    "marca": "Kaury Summer",
+    "talles": "85,90,95",
+    "colores": "Negro,Rojo",
+    "imagen": "KS588.jpg"
+},
+{
+    "codigo": 589,
+    "marca": "Kaury Summer",
+    "talles": "0,1,3,4",
+    "colores": "Frambuesa,Negro",
+    "imagen": "KS589.jpg"
+},
+{
+    "codigo": 590,
+    "marca": "Kaury Summer",
+    "talles": "95",
+    "colores": "Negro",
+    "imagen": "KS590.jpg"
+},
+{
+    "codigo": 591,
+    "marca": "Kaury Summer",
+    "talles": "1,2,3",
+    "colores": "Blanco,Negro",
+    "imagen": "KS591.jpg"
+}
 ]

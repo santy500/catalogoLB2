@@ -3,20 +3,6 @@ import './Home.css'
 import React, { useEffect, useState } from 'react';
 import { Link} from 'react-router-dom';
 
-const Homea = () => {
-    let botones = []
-    let articulos =[] 
-    articulos.forEach((item)=>{       
-        botones.push(
-            <Link to={{ pathname: '/articulos/'+item.marca  }}>
-                <button className='boton'>{item.marca}</button>
-            </Link>
-        ); 
-    })
-    return botones;
-};
-
-
 
 const Home = () => {
   const url = 'http://localhost:5000/api/productos';
